@@ -4,7 +4,7 @@ repo: IDC
 
 sites:
   - name: STT-01
-    url: https://10.50.20.70:62353
+    url: https://10.50.20.70:1702
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
