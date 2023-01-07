@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/10.50.20.70.ico",
     "slug": "stt-01",
     "status": "down",
-    "uptime": "2.80%",
-    "uptimeDay": "2.80%",
-    "uptimeWeek": "2.80%",
-    "uptimeMonth": "2.80%",
-    "uptimeYear": "2.80%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-06": 18
+      "2023-01-07": 152,
+      "2023-01-06": 1119
     }
   }
 ]
